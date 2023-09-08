@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {
+      "name": "Movie One",
+      "isWatched": true
+    },
+    {
+      "name": "Movie Two",
+      "isWatched": false
+    }
+  ]
+}
